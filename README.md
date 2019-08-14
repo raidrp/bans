@@ -4,7 +4,7 @@
 # Banngründe Ingame
 
   - Konfrontieren und behandeln als Admins Ingame | 2 Tage Bann
-  - Combat Logging | 1 Tag Bann, Inventar clear
+  - Combat Logging | Perma Bann, Inventar clear
   - RDM | 1 RMD 6std. Bann , bei Wiederholung permanent
   - VDM | siehe RDM
   - Meta Gaming | 1 mal, 1 Woche Bann, bei Wiederholung permanent | Teamspeak Funk Kanäle werden nicht gewertet.
